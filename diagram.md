@@ -1,21 +1,25 @@
+# A first-level heading
+
+```mermaid
 classDiagram
-    Animal <|-- Duck
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
-    class Duck{
-      +String beakColor
-      +swim()
-      +quack()
+    Disc --|> Track
+    Song --|> Track
+    
+    class Disc{
+      +ID
+      +Title
     }
-    class Fish{
-      -int sizeInFeet
-      -canEat()
+    class Song{
+      +ID
+      +Title
     }
-    class Zebra{
-      +bool is_wild
-      +run()
+    class Track{
+      +ID
+      +Title
     }
+    class Parson{
+    +ID
+    +Name
+    +BirthDay
+}
+```
