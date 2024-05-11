@@ -1,4 +1,11 @@
-### Hi there 👋
+# ソース置いておく
+## s-h-u-n-u-s-u-k-e-s-a-t-o-u/s-h-u-n-u-s-u-k-e-s-a-t-o-u
+### ここ
+全体のメモ。
+
+## s-h-u-n-u-s-u-k-e-s-a-t-o-u/weight
+### Google Action Scriptで簡易Webアプリケーション
+Spreadに書き込む。
 
 <!--
 **s-h-u-n-u-s-u-k-e-s-a-t-o-u/s-h-u-n-u-s-u-k-e-s-a-t-o-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
