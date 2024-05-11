@@ -9,6 +9,10 @@ Spreadに書き込む。
 
 ## s-h-u-n-u-s-u-k-e-s-a-t-o-u/ExcelAddin
 ### 自作のExcelアドイン
+
+## s-h-u-n-u-s-u-k-e-s-a-t-o-u/BooklMarklet
+### 自作のBookMarklet
+.jsファイルにしているが、利用時はブラウザのBookmarkに書き込んで登録し使う。
 <!--
 **s-h-u-n-u-s-u-k-e-s-a-t-o-u/s-h-u-n-u-s-u-k-e-s-a-t-o-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
