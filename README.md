@@ -10,7 +10,7 @@ Spreadに書き込む。
 ## s-h-u-n-u-s-u-k-e-s-a-t-o-u/ExcelAddin
 ### 自作のExcelアドイン
 
-## s-h-u-n-u-s-u-k-e-s-a-t-o-u/BooklMarklet
+## s-h-u-n-u-s-u-k-e-s-a-t-o-u/BookMarklet
 ### 自作のBookMarklet
 .jsファイルにしているが、利用時はブラウザのBookmarkに書き込んで登録し使う。
 <!--
